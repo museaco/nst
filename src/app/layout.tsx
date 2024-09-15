@@ -11,8 +11,8 @@ const NotoSansSC = localFont({
 
 
 export const metadata: Metadata = {
-  title: 'Ercy',
-  description: 'Ercy 动漫 二次元',
+  title: 'NextJs 14 Shadcn Template',
+  description: 'NextJs 14 Shadcn Template',
 };
 
 export default function RootLayout({ children, }: Readonly<{
