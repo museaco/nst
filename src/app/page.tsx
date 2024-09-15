@@ -68,7 +68,7 @@ export default function Home() {
   return (
     <div className="container pt-10">
 
-      <h1 className="text-3xl font-bold pt-4">NextJs Shadcn Template </h1>
+      <h1 className="text-3xl font-bold pt-4">NextJs 14 Shadcn Template </h1>
 
       <div className="flex items-center py-4 gap-4">
         <Drawer shouldScaleBackground>
